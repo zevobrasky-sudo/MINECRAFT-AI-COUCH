@@ -1,0 +1,9 @@
+{
+  "name": "Steve AI - Minecraft Coach",
+  "description": "A high-performance real-time AI coach for Minecraft that watches your screen and talks to you through the Gemini Live API.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ]
+}
